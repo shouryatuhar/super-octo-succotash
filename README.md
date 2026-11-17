@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deploy
 
-The project is configured for Vercel. Pushes to the connected GitHub repository can trigger deployments.
+The GitHub repository is connected to Vercel. Pushes to `main` trigger a production deployment; other branches can be used for previews.
